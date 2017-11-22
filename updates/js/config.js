@@ -5,7 +5,7 @@ checkup.config = {
 	"timeframe": 1 * time.Day,
 
 	// How often, in seconds, to pull new checks and update the page.
-	"refresh_interval": 60,
+	"refresh_interval": 45,
 
 	// Configure read-only access to stored checks. This configuration
 	// depends on your storage provider. Any credentials and other values
