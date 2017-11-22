@@ -18,7 +18,7 @@ checkup.config = {
 		//"BucketName": "<bucket name here>",
 
 		// Local file system (Caddy recommended: https://caddyserver.com)
-		"url": "http://vcap.me:2015"
+		"url": "https://raw.githubusercontent.com/maclover7/node-status/gh-pages/updates"
 	},
 
 	// The text to display along the top bar depending on overall status.
